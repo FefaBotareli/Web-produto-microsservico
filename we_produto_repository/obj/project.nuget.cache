@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jmyicbqwg24=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\labsfiap\\source\\repos\\web-produto-performance\\we_produto_repository\\we_produto_repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Softwares\\Nuget\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Softwares\\Nuget\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Softwares\\Nuget\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\labsfiap\\source\\repos\\web-produto-performance\\web-app-domain\\web-app-domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\labsfiap\\source\\repos\\web-produto-performance\\web-app-domain\\web-app-domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\labsfiap\\source\\repos\\web-produto-performance\\web-app-repository\\web-app-repository.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\labsfiap\\source\\repos\\web-produto-performance\\web-app-repository\\web-app-repository.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

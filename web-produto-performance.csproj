@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>web_produto_performance</RootNamespace>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\web-app-domain\web-app-domain.csproj" />
+		<ProjectReference Include="..\web-app-repository\web-app-repository.csproj" />
+	</ItemGroup>
+	
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "we_produto_repository/1.0.0": {
+        "runtime": {
+          "we_produto_repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "we_produto_repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

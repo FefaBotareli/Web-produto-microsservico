@@ -1,0 +1,11 @@
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\bin\Debug\net8.0\we_produto_repository.deps.json
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\bin\Debug\net8.0\we_produto_repository.dll
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\bin\Debug\net8.0\we_produto_repository.pdb
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\obj\Debug\net8.0\we_produto_repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\obj\Debug\net8.0\we_produto_repository.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\obj\Debug\net8.0\we_produto_repository.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\obj\Debug\net8.0\we_produto_repository.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\obj\Debug\net8.0\we_produto_repository.dll
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\obj\Debug\net8.0\refint\we_produto_repository.dll
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\obj\Debug\net8.0\we_produto_repository.pdb
+C:\Users\labsfiap\source\repos\web-produto-performance\we_produto_repository\obj\Debug\net8.0\ref\we_produto_repository.dll
